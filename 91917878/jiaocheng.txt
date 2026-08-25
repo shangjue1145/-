@@ -1,0 +1,2 @@
+自己下油猴https://www.tampermonkey.net/
+然后添加脚本，清空编辑器，把js文件内容粘贴上去，ctrls保存，或者直接把js丢进去
